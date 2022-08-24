@@ -39,8 +39,18 @@ Based on this analysis we can say that ENPH is a safe option for Steve's parents
 Also RUN is a good option since there has been an increase in its yearly return for 2018. 
 Rest of the stocks have performed poorly for the year 2018.
 
-The execution times of the original script and the refactored script for year '2017'.
+The execution times of the original script and the refactored script for year '2017':
+
 The refactored code has less exceution time.
+
+The execution of the original code.
+
+![image](https://user-images.githubusercontent.com/111020934/186290778-5dddaaed-9ae2-438f-8663-c50dab12f708.png)
+![image](https://user-images.githubusercontent.com/111020934/186290895-a264ffbb-4229-44b7-85e1-9347c5afdcf6.png)
+
+
+The execution time of the refactored code.
+
 ![image](https://user-images.githubusercontent.com/111020934/186286956-f9d13315-ab5d-4106-92f5-74ca8624d609.png)
 ![image](https://user-images.githubusercontent.com/111020934/186287003-059e8d16-8604-44a3-a003-830af64faf9c.png)
 
